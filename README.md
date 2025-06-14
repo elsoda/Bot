@@ -1,0 +1,2 @@
+# Bot
+Based on pircbot
