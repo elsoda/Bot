@@ -184,9 +184,9 @@ public class DccChat {
 
 
     /**
-     * Returns the BufferedReader used by this DCC Chat.
+     * Returns the BufferedWriter used by this DCC Chat.
      *
-     * @return the BufferedReader used by this DCC Chat.
+     * @return the BufferedWriter used by this DCC Chat.
      */
     public BufferedWriter getBufferedWriter() {
         return _writer;
